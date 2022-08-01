@@ -3,7 +3,7 @@ Final Project of Correlation One Data Science for All(DS4A) Program - 2022 Summe
 
 Collaboration with Jessica Addai, Oluwabunmi Ariyo, Yue Huang, Countess Olufunmi Aforijiku, Helen Kpoto
 
-Guided with Shermeen Velani
+Guided under Shermeen Velani
 
 ## Overview of an industry, business or problem
 According to WHO, over 700,000 people take their lives each year and unfortunately even more individuals attempt suicide. Research suggests that approximately 80%-90% of suicidal people signaled their intentions (National Library of Medicine). In addition, in 2020 alone, suicide was the 12th leading cause of death in the USA, surpassing the rate of homicides by nearly two times (National Institute of Mental Health).
